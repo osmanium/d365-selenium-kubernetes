@@ -211,11 +211,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\osman\\source\\repos\\SeleniumLocalTest\\SeleniumLocalTest\\SeleniumLocalTest.csproj",
-      "projectName": "SeleniumLocalTest",
-      "projectPath": "C:\\Users\\osman\\source\\repos\\SeleniumLocalTest\\SeleniumLocalTest\\SeleniumLocalTest.csproj",
+      "projectUniqueName": "E:\\Prj\\GitHub\\d365-selenium-kubernetes\\D365KubernetesTesting\\D365KubernetesTesting.csproj",
+      "projectName": "D365KubernetesTesting",
+      "projectPath": "E:\\Prj\\GitHub\\d365-selenium-kubernetes\\D365KubernetesTesting\\D365KubernetesTesting.csproj",
       "packagesPath": "C:\\Users\\osman\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\osman\\source\\repos\\SeleniumLocalTest\\SeleniumLocalTest\\obj\\",
+      "outputPath": "E:\\Prj\\GitHub\\d365-selenium-kubernetes\\D365KubernetesTesting\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
