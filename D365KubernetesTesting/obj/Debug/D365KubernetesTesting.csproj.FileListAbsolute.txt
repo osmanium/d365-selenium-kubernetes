@@ -1,0 +1,10 @@
+C:\Users\osman\source\repos\D365KubernetesTesting\D365KubernetesTesting\bin\Debug\D365KubernetesTesting.exe.config
+C:\Users\osman\source\repos\D365KubernetesTesting\D365KubernetesTesting\bin\Debug\D365KubernetesTesting.exe
+C:\Users\osman\source\repos\D365KubernetesTesting\D365KubernetesTesting\bin\Debug\D365KubernetesTesting.pdb
+C:\Users\osman\source\repos\D365KubernetesTesting\D365KubernetesTesting\bin\Debug\WebDriver.Support.dll
+C:\Users\osman\source\repos\D365KubernetesTesting\D365KubernetesTesting\bin\Debug\WebDriver.dll
+C:\Users\osman\source\repos\D365KubernetesTesting\D365KubernetesTesting\obj\Debug\D365KubernetesTesting.csprojAssemblyReference.cache
+C:\Users\osman\source\repos\D365KubernetesTesting\D365KubernetesTesting\obj\Debug\D365KubernetesTesting.csproj.CoreCompileInputs.cache
+C:\Users\osman\source\repos\D365KubernetesTesting\D365KubernetesTesting\obj\Debug\D365KubernetesTesting.csproj.CopyComplete
+C:\Users\osman\source\repos\D365KubernetesTesting\D365KubernetesTesting\obj\Debug\D365KubernetesTesting.exe
+C:\Users\osman\source\repos\D365KubernetesTesting\D365KubernetesTesting\obj\Debug\D365KubernetesTesting.pdb

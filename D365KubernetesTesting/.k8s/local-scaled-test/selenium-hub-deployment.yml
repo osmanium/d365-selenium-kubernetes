@@ -1,0 +1,34 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: selenium-hub-scaled
+  namespace: d365-scaled-selenium-testing
+  labels:
+    app: selenium-hub-scaled
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: selenium-hub-scaled
+  template:
+    metadata:
+      labels:
+        app: selenium-hub-scaled
+    spec:
+      containers:
+        - name: selenium-hub-scaled
+          image: selenium/hub:3.141
+          ports:
+            - containerPort: 4444
+          livenessProbe:
+            httpGet:
+              path: /wd/hub/status
+              port: 4444
+            initialDelaySeconds: 30
+            timeoutSeconds: 5
+          readinessProbe:
+            httpGet:
+              path: /wd/hub/status
+              port: 4444
+            initialDelaySeconds: 30
+            timeoutSeconds: 5

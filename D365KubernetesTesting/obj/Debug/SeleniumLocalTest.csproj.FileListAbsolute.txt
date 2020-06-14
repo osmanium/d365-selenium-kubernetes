@@ -1,0 +1,10 @@
+C:\Users\osman\source\repos\SeleniumLocalTest\SeleniumLocalTest\bin\Debug\SeleniumLocalTest.exe.config
+C:\Users\osman\source\repos\SeleniumLocalTest\SeleniumLocalTest\bin\Debug\SeleniumLocalTest.exe
+C:\Users\osman\source\repos\SeleniumLocalTest\SeleniumLocalTest\bin\Debug\SeleniumLocalTest.pdb
+C:\Users\osman\source\repos\SeleniumLocalTest\SeleniumLocalTest\obj\Debug\SeleniumLocalTest.csprojAssemblyReference.cache
+C:\Users\osman\source\repos\SeleniumLocalTest\SeleniumLocalTest\obj\Debug\SeleniumLocalTest.csproj.CoreCompileInputs.cache
+C:\Users\osman\source\repos\SeleniumLocalTest\SeleniumLocalTest\obj\Debug\SeleniumLocalTest.exe
+C:\Users\osman\source\repos\SeleniumLocalTest\SeleniumLocalTest\obj\Debug\SeleniumLocalTest.pdb
+C:\Users\osman\source\repos\SeleniumLocalTest\SeleniumLocalTest\bin\Debug\WebDriver.dll
+C:\Users\osman\source\repos\SeleniumLocalTest\SeleniumLocalTest\obj\Debug\SeleniumLocalTest.csproj.CopyComplete
+C:\Users\osman\source\repos\SeleniumLocalTest\SeleniumLocalTest\bin\Debug\WebDriver.Support.dll

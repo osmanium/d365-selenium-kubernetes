@@ -1,0 +1,17 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: selenium-hub
+  namespace: d365-rdp-selenium-testing
+  labels:
+    app: selenium-hub
+spec:
+  ports:
+    - port: 4444
+      targetPort: 4444
+      nodePort: 31000
+      name: port0
+  selector:
+    app: selenium-hub
+  type: NodePort
+  sessionAffinity: None
